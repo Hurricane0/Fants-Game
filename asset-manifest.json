@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fants-Game/static/css/main.d5378675.chunk.css",
+    "main.css": "/Fants-Game/static/css/main.1d679781.chunk.css",
     "main.js": "/Fants-Game/static/js/main.ee2de7d4.chunk.js",
     "main.js.map": "/Fants-Game/static/js/main.ee2de7d4.chunk.js.map",
     "runtime-main.js": "/Fants-Game/static/js/runtime-main.853ca1ba.js",
@@ -8,16 +8,16 @@
     "static/js/2.0c118c86.chunk.js": "/Fants-Game/static/js/2.0c118c86.chunk.js",
     "static/js/2.0c118c86.chunk.js.map": "/Fants-Game/static/js/2.0c118c86.chunk.js.map",
     "index.html": "/Fants-Game/index.html",
-    "precache-manifest.5294aada4c561fb3b56532576ee69855.js": "/Fants-Game/precache-manifest.5294aada4c561fb3b56532576ee69855.js",
+    "precache-manifest.6b866500d742dfe9b1bdbedf288ff165.js": "/Fants-Game/precache-manifest.6b866500d742dfe9b1bdbedf288ff165.js",
     "service-worker.js": "/Fants-Game/service-worker.js",
-    "static/css/main.d5378675.chunk.css.map": "/Fants-Game/static/css/main.d5378675.chunk.css.map",
+    "static/css/main.1d679781.chunk.css.map": "/Fants-Game/static/css/main.1d679781.chunk.css.map",
     "static/js/2.0c118c86.chunk.js.LICENSE": "/Fants-Game/static/js/2.0c118c86.chunk.js.LICENSE",
     "static/media/Infinity-1s-200px.50e5cba2.svg": "/Fants-Game/static/media/Infinity-1s-200px.50e5cba2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.853ca1ba.js",
     "static/js/2.0c118c86.chunk.js",
-    "static/css/main.d5378675.chunk.css",
+    "static/css/main.1d679781.chunk.css",
     "static/js/main.ee2de7d4.chunk.js"
   ]
 }
