@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2457c8b822f65318ce2c95aaf9a02dc",
+    "revision": "7fc6ece784e66828b3a21757614b1d72",
     "url": "/Fants-Game/index.html"
   },
   {
-    "revision": "7fd289b8059485ad3df4",
+    "revision": "f37ed0fe7250ea4f3b8d",
     "url": "/Fants-Game/static/css/main.1d679781.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Fants-Game/static/js/2.0c118c86.chunk.js.LICENSE"
   },
   {
-    "revision": "7fd289b8059485ad3df4",
-    "url": "/Fants-Game/static/js/main.ee2de7d4.chunk.js"
+    "revision": "f37ed0fe7250ea4f3b8d",
+    "url": "/Fants-Game/static/js/main.c0187ce6.chunk.js"
   },
   {
     "revision": "83326f0cbe3e02c1fb13",
