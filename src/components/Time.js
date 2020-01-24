@@ -15,7 +15,7 @@ export const Time = ({chosenTime}) => {
     return (
         <div className={"time-container"}>
             <div className={"time-block"}>
-                {init}<img height={"30px"} style={{marginLeft: "5px", paddingTop: "5px"}} src="https://i.pinimg.com/originals/33/ba/c2/33bac2e90f34f0e12f550360505b522c.png" alt="smile"/>
+                {init}
             </div>
         </div>
     );
