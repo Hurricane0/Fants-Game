@@ -71,7 +71,7 @@ function App() {
         <>
             <HashRouter>
                 <Route exact path="/">
-                    <div style={{marginTop: "20px"}} className="container">
+                    <div style={{marginTop: "-17px"}} className="container">
                         <Time chosenTime={chosenTime}/>
                         <div className={"main-container"}>
                             <Place chosenPlace={chosenPlace}/>
@@ -81,7 +81,7 @@ function App() {
                         <Button play={playFirst}/>
                     </div>
 
-                    <div style={{borderTop: "1px solid #0000002e", paddingTop: '50px', marginTop: "30px"}}
+                    <div style={{borderTop: "1px solid #0000002e", paddingTop: '50px', marginTop: "30px", marginBottom: "0px"}}
                          className="container">
                         <Time chosenTime={chosenTimeSecond}/>
                         <div className={"main-container"}>
