@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Fants-Game/precache-manifest.a8fb04ac2e768a19315551fff04ce811.js"
+  "/Fants-Game/precache-manifest.4e6e3f5b7d2fcf0717d58d92c7c8bd87.js"
 );
 
 self.addEventListener('message', (event) => {
