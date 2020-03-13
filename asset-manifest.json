@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Fants-Game/static/css/main.8767b63f.chunk.css",
-    "main.js": "/Fants-Game/static/js/main.6234cc72.chunk.js",
-    "main.js.map": "/Fants-Game/static/js/main.6234cc72.chunk.js.map",
+    "main.js": "/Fants-Game/static/js/main.86aca3bc.chunk.js",
+    "main.js.map": "/Fants-Game/static/js/main.86aca3bc.chunk.js.map",
     "runtime-main.js": "/Fants-Game/static/js/runtime-main.853ca1ba.js",
     "runtime-main.js.map": "/Fants-Game/static/js/runtime-main.853ca1ba.js.map",
     "static/js/2.93f4e8a7.chunk.js": "/Fants-Game/static/js/2.93f4e8a7.chunk.js",
     "static/js/2.93f4e8a7.chunk.js.map": "/Fants-Game/static/js/2.93f4e8a7.chunk.js.map",
     "index.html": "/Fants-Game/index.html",
-    "precache-manifest.3c96c3fd04bb18b8d38d8c47773153a8.js": "/Fants-Game/precache-manifest.3c96c3fd04bb18b8d38d8c47773153a8.js",
+    "precache-manifest.4113d3450741c06ce179f2cc988b528d.js": "/Fants-Game/precache-manifest.4113d3450741c06ce179f2cc988b528d.js",
     "service-worker.js": "/Fants-Game/service-worker.js",
     "static/css/main.8767b63f.chunk.css.map": "/Fants-Game/static/css/main.8767b63f.chunk.css.map",
     "static/js/2.93f4e8a7.chunk.js.LICENSE": "/Fants-Game/static/js/2.93f4e8a7.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.853ca1ba.js",
     "static/js/2.93f4e8a7.chunk.js",
     "static/css/main.8767b63f.chunk.css",
-    "static/js/main.6234cc72.chunk.js"
+    "static/js/main.86aca3bc.chunk.js"
   ]
 }
