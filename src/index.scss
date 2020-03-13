@@ -13,6 +13,11 @@ code {
   monospace;
 }
 
+.with-background{
+  background-image: url("background.png");
+  width: 375px;
+  margin: 0 auto;
+}
 .container {
   width: 375px;
   box-sizing: border-box;
@@ -41,20 +46,23 @@ code {
   background-color: #272727;
   box-shadow: 0 0 10px #111111;
 }
-
+.with-background .time-block {
+  margin-top: 20px;
+}
 .action-place-block {
   background-color: #272727;
-  width: 150px;
-  height: 70px;
+  width: 130px;
+  height: 38px;
   border-radius: 8px;
   display: flex;
   justify-content: center;
   align-items: center;
   box-shadow: 0 0 10px #111111;
+  margin-top: 28px;
 
   span {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 19px;
     color: #9E9E9E
   }
 }
@@ -135,4 +143,21 @@ code {
     text-decoration: none;
     margin-top: 20px;
   }
+}
+.bg-button-container{
+  display: flex;
+  justify-content: center;
+  .bg-button {
+    color: #5a5a5a;
+    margin: 0 auto;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+  }
+}
+.second  {
+  margin-top: 30px;
+}
+.second-with-bg{
+  margin-top: 60px;
 }
